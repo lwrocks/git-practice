@@ -1,3 +1,4 @@
 Name: Laurel Wright
 Age: 33
+City: Berlin
 Favorite Color: Green
